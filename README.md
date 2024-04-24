@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋. The Repository contains very interesting Data Analytics, Data Visualization and Data Science projects.
 
 <!--
 **BalakrishnanIyer/BalakrishnanIyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
