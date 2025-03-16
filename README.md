@@ -23,8 +23,14 @@ This project explores the relationship between key economic and social indicator
 
 ## 🚀 How to Use
 1. Download the `.twb` file and open it in **Tableau**.
-2. Explore the interactive dashboards to analyze the impact of various factors on happiness.
-3. Refer to the **PDF report** for key takeaways.
+2. Open it using Tableau Desktop.
+3. Explore the interactive dashboards to analyze the impact of various factors on happiness.
+4. Refer to the **PDF report** for key takeaways.
+
+## Notable Findings
+
+- **Anomalies**: Countries with moderate GDP but high happiness scores often have strong social support systems.
+- **Trend**: A diminishing return on happiness as GDP increases beyond a certain threshold.
 
 ---
 
@@ -33,15 +39,3 @@ This project explores the relationship between key economic and social indicator
 
 <!--
 **BalakrishnanIyer/BalakrishnanIyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
